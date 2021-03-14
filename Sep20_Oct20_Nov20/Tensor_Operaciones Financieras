@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Ecopetrol: Finanzas",
+      "tensorName": "Ecopetrol: Operaciones Financieras",
       "tensorShape": [
         1000,
         50
