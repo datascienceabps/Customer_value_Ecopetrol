@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Ecopetrol: Accionista",
+      "tensorName": "Ecopetrol: Atención al accionista",
       "tensorShape": [
         1000,
         50
