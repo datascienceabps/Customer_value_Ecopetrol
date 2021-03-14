@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Ecopetrol: Finanzas",
+      "tensorName": "Ecopetrol: Quejas y OPC",
       "tensorShape": [
         1000,
         50
