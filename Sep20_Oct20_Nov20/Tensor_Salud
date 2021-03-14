@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Ecopetrol: Finanzas",
+      "tensorName": "Ecopetrol: Salud",
       "tensorShape": [
         1000,
         50
