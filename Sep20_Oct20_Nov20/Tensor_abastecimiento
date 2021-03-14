@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "NUEVA EPS: Autorizacion_subsidiado",
+      "tensorName": "Ecopetrol: Abastecimiento",
       "tensorShape": [
         1000,
         50
