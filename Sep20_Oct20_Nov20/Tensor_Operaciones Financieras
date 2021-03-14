@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ecopetrol: Finanzas",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20/Tensor_Operaciones Financieras",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20/Metadata_tensor_Operaciones Financieras"
+      
+
+
+
+
+
+    }
+  ]
+}
