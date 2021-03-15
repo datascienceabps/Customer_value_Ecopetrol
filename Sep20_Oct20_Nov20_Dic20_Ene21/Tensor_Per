@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ecopetrol: Personal",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20/Personal/",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20/Personal/"
+      
+
+
+
+
+
+    }
+  ]
+}
