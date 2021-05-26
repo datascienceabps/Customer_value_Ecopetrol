@@ -1,0 +1,19 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ecopetrol: Salud",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20_Dic20_Ene21/Salud/_tensor_salud_00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Sep20_Oct20_Nov20_Dic20_Ene21/Salud/_tensor_salud_00_metadata.tsv"
+      
+
+
+
+
+
+    }
+  ]
+}
