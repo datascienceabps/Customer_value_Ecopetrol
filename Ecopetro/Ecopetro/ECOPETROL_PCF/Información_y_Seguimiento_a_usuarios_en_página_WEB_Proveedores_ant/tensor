@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Información y Seguimiento a usuarios en página WEB Proveedores",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_PCF/Informaci%C3%B3n_y_Seguimiento_a_usuarios_en_p%C3%A1gina_WEB_Proveedores/Creacion_total_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_PCF/Informaci%C3%B3n_y_Seguimiento_a_usuarios_en_p%C3%A1gina_WEB_Proveedores/Creacion_total_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}
