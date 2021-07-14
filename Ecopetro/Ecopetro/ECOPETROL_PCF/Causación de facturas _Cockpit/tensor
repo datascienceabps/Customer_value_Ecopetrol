@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ecopetrol: Causación de facturas / Cockpit",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_PCF/Causaci%C3%B3n%20de%20facturas%20_Cockpit/Creacion_total_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_PCF/Causaci%C3%B3n%20de%20facturas%20_Cockpit/Creacion_total_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}
