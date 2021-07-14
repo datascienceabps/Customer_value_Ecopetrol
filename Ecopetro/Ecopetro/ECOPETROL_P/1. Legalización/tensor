@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "NUEVA EPS: Autorizacion_Contributivo",
+      "tensorName": "Ecopetrol: Legalizacón",
       "tensorShape": [
         1000,
         50
