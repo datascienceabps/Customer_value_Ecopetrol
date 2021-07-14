@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "NUEVA EPS: Autorizacion_Contributivo",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_P/1.%20Legalizaci%C3%B3n/Creacion_total_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/datascienceabps/Customer_value_Ecopetrol/main/Ecopetro/Ecopetro/ECOPETROL_P/1.%20Legalizaci%C3%B3n/Creacion_total_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}
